@@ -6,7 +6,7 @@ require (
 	github.com/fatih/color v1.7.0
 	github.com/gizak/termui v2.3.0+incompatible // indirect
 	github.com/google/pprof v0.0.0-20190502144155-8358a9778bd1 // indirect
-	github.com/maruel/panicparse v1.1.2-0.20180806203336-f20d4c4d746f
+	github.com/maruel/panicparse v1.3.0
 	github.com/mattn/go-colorable v0.1.1 // indirect
 	github.com/mattn/go-isatty v0.0.8 // indirect
 	github.com/mattn/go-runewidth v0.0.7
