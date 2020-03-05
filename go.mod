@@ -11,7 +11,7 @@ require (
 	github.com/mattn/go-isatty v0.0.8 // indirect
 	github.com/mattn/go-runewidth v0.0.7
 	github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b // indirect
-	github.com/miguelmota/go-coinmarketcap v0.1.5
+	github.com/miguelmota/go-coinmarketcap v0.1.6
 	github.com/miguelmota/gocui v0.4.2
 	github.com/miguelmota/termbox-go v0.0.0-20191229070316-58d4fcbce2a7
 	github.com/mitchellh/go-wordwrap v1.0.0
