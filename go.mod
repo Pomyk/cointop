@@ -9,7 +9,7 @@ require (
 	github.com/maruel/panicparse v1.1.2-0.20180806203336-f20d4c4d746f
 	github.com/mattn/go-colorable v0.1.1 // indirect
 	github.com/mattn/go-isatty v0.0.8 // indirect
-	github.com/mattn/go-runewidth v0.0.7
+	github.com/mattn/go-runewidth v0.0.8
 	github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b // indirect
 	github.com/miguelmota/go-coinmarketcap v0.1.5
 	github.com/miguelmota/gocui v0.4.2
